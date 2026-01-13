@@ -1,7 +1,7 @@
 
 
 <center>
-   <img src="./.github/assets/logo.png" width="40%" style="margin-bottom:1rem" />
+   <img src="../../.github/assets/logo.png" width="40%" style="margin-bottom:1rem" />
 
    # Hytale Docker
 
