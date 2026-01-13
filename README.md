@@ -1,6 +1,10 @@
-# Hytale Docker Setup
+<center>
+   <img src="./.github/assets/logo.png" width="40%" style="margin-bottom:1rem" />
 
-A Docker containerization setup for running a Hytale game server. This project provides a complete Docker Compose configuration with an automated build process to download and run the Hytale server.
+   # Hytale Docker
+
+   A Docker containerization setup for running a Hytale game server. This project provides a complete Docker Compose configuration with an automated build process to download and run the Hytale server.
+</center>
 
 ## Overview
 
