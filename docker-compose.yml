@@ -4,6 +4,7 @@ services:
         build: .
         stdin_open: true
         tty: true
+        user: 1000:1000
         ports:
             - "5520:5520/udp"
         volumes:
