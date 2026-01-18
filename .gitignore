@@ -1,2 +1,5 @@
 # Ignore the hytale directory
 hytale/
+
+# Ignore the .env file
+.env
