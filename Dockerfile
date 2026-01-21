@@ -1,13 +1,13 @@
 # Use the openjdk:22-jdk-slim image
-FROM openjdk:22-jdk-slim
+FROM eclipse-temurin:25.0.1_8-jre-alpine-3.23
 
 LABEL org.opencontainers.image.source=https://github.com/machinastudios/hytale-docker
 LABEL org.opencontainers.image.description="Hytale Server Docker Image"
 LABEL org.opencontainers.image.licenses=MIT
 LABEL org.opencontainers.image.authors="Machina Studios"
 LABEL org.opencontainers.image.vendor="Machina Studios"
-LABEL org.opencontainers.image.version="1.0.0"
-LABEL org.opencontainers.image.revision="1.0.0"
+LABEL org.opencontainers.image.version="1.0.1"
+LABEL org.opencontainers.image.revision="1.0.1"
 LABEL org.opencontainers.image.url="https://github.com/machinastudios/hytale-docker"
 LABEL org.opencontainers.image.documentation="https://github.com/machinastudios/hytale-docker"
 
