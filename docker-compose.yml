@@ -10,7 +10,8 @@ services:
         volumes:
             - ./hytale:/hytale
         env_file:
-            - .env
+            - path: .env
+              required: false
         environment:
             - SERVER_ACCEPT_EARLY_PLUGINS=true
             - SERVER_BIND=0.0.0.0:5520
